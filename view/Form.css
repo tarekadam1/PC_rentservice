@@ -1,0 +1,46 @@
+
+
+form{
+  box-sizing: border-box;
+  width: 100vw;
+  height: 20vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  background-color: aqua;
+  text-decoration-style: solid;
+font-style: italic;
+color: rgb(68, 24, 104);
+}
+
+/*
+body {
+  margin: 0;
+}
+
+.conteneur {
+  background-color: grey;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ 
+.carre {
+  background-color: black;
+  height: 30vw; 
+  width:30vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.texte {
+  color: burlywood;
+  font-size:3vw;
+}
+
+
